@@ -33,3 +33,20 @@ Most adverbs modify verbs.
 Engineering is a great career for brilliant minds. I know five engineers who could excel at any intellectual task.
 `
 
+## Conjunctions and transitions
+Conjunctions connect phrases or nouns within a sentence; transitions connect sentences themselves.
+
+`
+Juan is a wonderful coder. However, he rarely writes sufficient tests. For example, Juan coded a 5,000 line FFT package that contained only a single 10-line unit test.
+`
+
+`
+Natasha writes great internal code and documentation but seldom works on open-source projects.
+`
+
+`**Exercise**`
+*Fill in the most appropriate transition:*
+
+`
+Barbara typically studies problems for a long time before writing the first line of code. _____________, she spontaneously coded a method the other day when she was suddenly inspired.
+`
