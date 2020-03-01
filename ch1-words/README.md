@@ -6,3 +6,11 @@
 ## Use terms consistently
 + Once you've named a component thingy, don't rename it thingamabob.
 + when introducing a long-winded concept name or product name, you may also specify a shortened version of that name. 
+
+## Use acronyms properly
++ On the initial use of an unfamiliar acronym within a document or a section, spell out the full term, and then put the acronym in parentheses. **bold face**
++ Don't define acronyms that would only be used a few times.
++ Do define acronyms that meet both of the following criteria:
+    -  The acronym is significantly shorter than the full term.
+    - The acronym appears many times in the document.
+    
