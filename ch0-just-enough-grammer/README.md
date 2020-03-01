@@ -22,3 +22,14 @@ A verb identifies what the actor does to the target.
 **`Exercise`** *Identify the verbs in the following passage:*
 
 `Samantha is coding Operation Bullwinkle in C++. This project currently consumes over 80,000 lines of code. She previously used Python, but recently gravitated to C++. Samantha leads a team of four software engineers, which will grow to six software engineers next quarter.`
+
+## Adjectives and adverbs
+Adjectives modify nouns.
+Most adverbs modify verbs.
+
+**`Exercise`** *Identify the four adjectives in the following passage:*
+
+`
+Engineering is a great career for brilliant minds. I know five engineers who could excel at any intellectual task.
+`
+
