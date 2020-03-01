@@ -1,1 +1,1 @@
-# Basic grammer for the course 
+# Basic grammar for the course 
